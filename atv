@@ -1,0 +1,45 @@
+L I S T A D E E X E R C Í C I O S
+Módulo: Primeiros passos no Python
+Exercício 1: Escreva um programa em Python que imprima a frase “Olá, mundo!” na tela.
+Exercício 2: Crie um programa em Python que imprima seu nome completo.
+Exercício 3: Escreva um programa em Python que atribua um valor inteiro à variável
+numeroe imprima esse valor na tela.
+Exercício 4: Crie um programa em Python que atribua seu nome a uma variável nome e
+imprima na tela a seguinte mensagem: “Olá, [nome]! Seja bem-vindo(a) ao curso de
+Python!”.
+Exercício 5: Escreva um programa em Python que atribua um valor do tipo float à
+variável pesoe imprima o valor dela na tela.
+Exercício 6: Crie um programa em Python que atribua dois valores inteiros às variáveis a
+e b, e imprima a soma desses valores na tela.
+Exercício 7: Escreva um programa em Python que atribua um valor complexo à variável
+numero_complexoe imprima esse valor na tela.
+Exercício 8: Crie um programa em Python que atribua um valor booleano à variável
+verdadeiroe imprima o valor dela na tela.
+Exercício 9: Crie um programa em Python que atribua dois valores inteiros às variáveis
+largura e altura, e imprima a área de um retângulo utilizando esses valores.
+Exercício 10: Escreva um programa em Python que atribua um valor do tipo float à
+variável dolar e imprima o valor do dólar utilizando esse valor. Considere que o valor
+do dólar hoje é 5.50.
+Exercício 11: Crie um programa em Python que atribua dois valores inteiros às variáveis
+a e b, e imprima o resultado da multiplicação desses valores na tela.
+Módulo: Variáveis e Tipos de Dados
+Exercício 1: Crie uma variável chamada “nome” e atribua a ela o seu nome completo.
+Exercício 2: Crie uma variável chamada “idade” e atribua a ela a sua idade.
+Exercício 3: Crie uma variável chamada “altura” e atribua a ela a sua altura em metros.
+Exercício 4: Crie uma variável chamada “maior_de_18” e atribua a ela o valor booleano
+que representa se você possui 18 anos ou mais.
+Exercício 5: Crie uma variável chamada “saldo” e atribua a ela o valor do seu saldo
+bancário.
+Exercício 6: Crie uma variável chamada “nome_do_curso” e atribua a ela o nome do
+curso que você está estudando.
+Exercício 7: Crie uma variável chamada “nota1” e atribua a ela a primeira nota de uma
+prova.
+Exercício 8: Crie uma variável chamada “nota2” e atribua a ela a segunda nota de uma
+prova.
+Exercício 9: Crie uma variável chamada “nota3” e atribua a ela a terceira nota de uma
+prova.
+Exercício 10: Crie uma variável chamada “media” e atribua a ela a média das três notas
+anteriores.
+Exercício 11: Crie uma variável chamada “temperatura” e atribua a ela a temperatura
+atual em graus Celsius.
+ 
